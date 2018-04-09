@@ -5,3 +5,4 @@ second-commit
 firstcommit
 secondcommit
 version
+release
